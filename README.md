@@ -1,0 +1,1 @@
+# g-hashcode-starter-scala
